@@ -5,7 +5,8 @@ using System.Data;
 using System.Linq;
 using System.Windows;
 
-namespace Walkthrough_Creating_Table {
+namespace dxrichedit_table
+{
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
