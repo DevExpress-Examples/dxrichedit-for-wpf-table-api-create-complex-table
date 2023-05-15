@@ -3,17 +3,25 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E3266)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+# DXRichEdit for WPF: Use Table API to Generate a Complex Table
+
+This example shows how to generate a complex table in code from scratch. In this example, the buttons on the **Tables** ribbon tab allows you to execute the following actions:
+
+* Create a table
+* Specify table width
+* Add new rows and columns
+* Merge and split cells
+* Insert and format table content
+* Change table appearance
+* Position a table
+
+![main window](./media/image.png)
+
+## Files to Review
 
 * [MainWindow.xaml](./CS/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/MainWindow.xaml))
 * [MainWindow.xaml.cs](./CS/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/MainWindow.xaml.vb))
-<!-- default file list end -->
-# DXRichEdit for WPF: Table API - Creating table - a simple example
 
+## Documentation
 
-<p>This example shows you how to create a table programmatically and apply formatting to the table, and to individual columns within the table. It loads data from the file system, displaying a directory listing of all the files in your C:\ folder with their size and modification date values. The resulting document should look like the one in the picture below (with different file names). </p><p><img src="https://raw.githubusercontent.com/DevExpress-Examples/dxrichedit-for-wpf-table-api-creating-table-a-simple-example-e3266/12.1.4+/media/41b4bed9-7adf-40b5-a044-6ed8b3899d9d.png"></p>
-
-<br/>
-
-
+* [Tables in RichEdit Documents](https://docs.devexpress.com/WPF/9105/controls-and-libraries/rich-text-editor/rich-edit-control-document/tables)
